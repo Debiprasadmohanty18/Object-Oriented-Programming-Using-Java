@@ -4,7 +4,7 @@ public class MainPolymorphism {
 
 	public static void main(String[] args) 
 	{
-		//We can call a particular method/work by different ways called OOPsPolymorphism.
+		//We can call a particular method/work by different ways called Polymorphism.
 		Circle circle = new Circle();
 		circle.area();
 		PolymorphismConcept ob = new Circle();
