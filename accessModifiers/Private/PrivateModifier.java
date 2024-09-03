@@ -1,3 +1,5 @@
+//The private access modifier is accessible only within the class.
+
 package com.accessModifiers.Private;
 
 
