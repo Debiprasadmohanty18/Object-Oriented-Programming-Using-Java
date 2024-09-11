@@ -1,12 +1,11 @@
-/*
- To Overcome the problem we faced in ArrayList We need to create the new Custom ArrayList using Java-Generics.
+/*  What is Java WildCards ?
+ Answer :- The Question Mark (?) in java called Wild Card. 
+ --> it is a unknown type used to give the restriction to parameter.
  
- GENERICS :- 
+ syntax:- (? extends Number)
  
- --> Java-Generics means parameterized types. 
- --> The idea is to allow type (Integer, String, … etc., and user-defined types) to be a parameter to methods, classes, and interfaces. Using Generics.
- --> It is possible to create classes that work with different data types. 
- 
+  In this we cann't take string parameter.It will only take Number type and it's sub type.
+ 	
 */
 
 package com.javaWildCards;
