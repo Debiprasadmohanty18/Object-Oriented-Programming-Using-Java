@@ -1,12 +1,4 @@
-/*  What is Java WildCards ?
- Answer :- The Question Mark (?) in java called Wild Card. 
- --> it is a unknown type used to give the restriction to parameter.
- 
- syntax:- (? extends Number)
- 
-  In this we cann't take string parameter.It will only take Number type and it's sub type.
- 	
-*/
+
 
 package com.generics;
 
