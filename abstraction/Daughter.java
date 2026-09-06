@@ -15,5 +15,4 @@ public class Daughter extends Parent {
 	public void dreamYouLeft() {
 		System.out.println("I wanted to be a Dancer.");
 	}
-
 }
