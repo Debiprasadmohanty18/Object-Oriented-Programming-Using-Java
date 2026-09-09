@@ -81,7 +81,6 @@ public class CustomArrayList {
 	{
 		return "arr=" + Arrays.toString(arr) + ", size=" + size;
 	}
-
 	public static void main(String[] args) {
 		CustomArrayList list = new CustomArrayList();
 		list.add(5);
