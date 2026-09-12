@@ -53,7 +53,7 @@ public class CustomArrayList {
 //		System.out.println(size);
 	}
 	
-	
+
 	private boolean isEmpty() 
 	{
 		return size == 0;
