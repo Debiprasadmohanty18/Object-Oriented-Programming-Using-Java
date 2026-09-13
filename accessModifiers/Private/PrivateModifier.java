@@ -2,7 +2,6 @@
 
 package com.accessModifiers.Private;
 
-
 class PrivateModifierCheck {
 	private int z;
 	private void method()
